@@ -34,4 +34,8 @@ This repo is organized topic-wise to make navigation easy:
 > _Philosophy "Consistency beats talent when talent doesn’t show up."_
 
 
+
 ---
+
+[PalindromeNumber_Q9.java](https://github.com/iuzaifa/dsa-interview-prep/blob/main/src/leetCode/easy/PalindromeNumber_Q9.java)
+
