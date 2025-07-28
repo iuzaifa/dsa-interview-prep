@@ -37,5 +37,3 @@ This repo is organized topic-wise to make navigation easy:
 
 ---
 
-[PalindromeNumber_Q9.java](https://github.com/iuzaifa/dsa-interview-prep/blob/main/src/leetCode/easy/PalindromeNumber_Q9.java)
-
