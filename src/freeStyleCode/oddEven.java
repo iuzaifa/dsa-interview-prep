@@ -3,7 +3,14 @@ package freeStyleCode;
 import java.util.Arrays;
 
 
-// check odd even number
+
+
+/**
+This program checks whether each number in an array has an even last digit. It returns a
+boolean array where `true` means the number ends with an even digit, `false` otherwise.
+ */
+
+
 
 public class oddEven {
     public static void main(String[] args) {
@@ -27,4 +34,5 @@ public class oddEven {
         return odEven;
 
     }
+
 }
