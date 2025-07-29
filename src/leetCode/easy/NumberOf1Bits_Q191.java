@@ -9,6 +9,7 @@ public class NumberOf1Bits_Q191 {
         System.out.println(hammingWeight(z));
     }
 
+
     public static int hammingWeight(int n) {
         String s = getIntoBytes(n);
         int count = 0;
