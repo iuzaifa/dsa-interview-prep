@@ -3,31 +3,29 @@ package leetCode.easy;
 public class PowerOfTwo231 {
     public static void main(String[] args) {
 
-        int x = 16, y = 1, z = 4;
+        int x = 16, y = 8, z = 4;
 
         System.out.println("X : " + isPowerOfTwo(x));
-//        System.out.println("Y : " + isPowerOfTwo(y));
-//        System.out.println("Z : " + isPowerOfTwo(z));
+        System.out.println("Y : " + isPowerOfTwo(y));
+        System.out.println("Z : " + isPowerOfTwo(z));
     }
 
     public static boolean isPowerOfTwo(int n) {
 
-        if (n < 1){
+
+        if ( n < 1){
             return false;
-        }else if (n == 1){
+        } else if (n == 1) {
             return true;
+        }else {
+            while (n % 2 == 0){
+                n = n / 2;
+            }
+            if (n == 1){
+                return true;
+            }else return false;
         }
 
-        int count = 0;
-        int temp = 0;
-        while (!(2 == n)){
-
-
-        }
-
-        System.out.println(temp);
-        System.out.println(count);
-        return false;
 
     }
 }
