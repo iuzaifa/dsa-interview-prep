@@ -2,7 +2,7 @@ Absolutely! Here's your **entire 1-Year DSA Plan** laid out in **plain tabular f
 
 ---
 
-## 📘 **1-Year DSA Practice Plan (Plain Table Format)**
+## **1-Year DSA Practice Plan (Plain Table Format)**
 
 | **Month** | **Week** | **Days**    | **Level** | **Topic(s)**        | **Focus Areas / Problems**                         |
 | -------- | -------- | ----------- | --------- | ------------------- | -------------------------------------------------- |
