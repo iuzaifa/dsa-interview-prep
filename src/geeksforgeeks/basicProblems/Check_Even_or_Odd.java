@@ -61,6 +61,7 @@ public class Check_Even_or_Odd {
 
         int [] sorted = new int[numArr.length];
         int j = 0;
+        // left Side Even
         for (int i=0; i<numArr.length; i++){
             if (numArr[i] % 2 == 0){
                 sorted[j] = numArr[i];
@@ -68,6 +69,7 @@ public class Check_Even_or_Odd {
             }
         }
 
+        // Right Side odd
         for (int k = 0; k < numArr.length; k++){
             if (numArr[k] % 2 != 0){
                 sorted[j] = numArr[k];
